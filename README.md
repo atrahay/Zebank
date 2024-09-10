@@ -1,5 +1,6 @@
 # Neobank retention analysis
 ## Group projet - Bootcamp Data Analytics - Le Wagon #Batch1671
+https://lookerstudio.google.com/u/0/reporting/a6306483-6b5d-4501-987e-e14e68dcce82/page/p_4x8zc070hd
 
 For this project we receive data from a neobank. We have decided to rename the projet Zebank.
 We wanted to collaborate with DBT. After spending two days trying to solve a problem on the website, we had to try different way. We worked all on the same new clean view and then table on GCP to collaborate.
