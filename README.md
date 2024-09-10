@@ -16,6 +16,9 @@ Here we would like to present the code we used on Google BigQuery to conduct our
 
 <img src="./lucidchart.png" alt="Description de l'image" height="300"/>
 
+![lucidchart](https://github.com/user-attachments/assets/32a9cd8e-5521-4d27-b3a8-9fbf5e41e31e)
+
+
 => First, we have cleaned the data with SQL in Google BigQuery
 
 - devices table : Supprimer la ligne device= “brand”
