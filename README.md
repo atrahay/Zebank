@@ -241,8 +241,3 @@ SELECT
   SUM(CASE WHEN active_or_churner = 'churner' THEN 1 ELSE 0 END) AS nb_churners_Q6
   FROM Q6
 ```
-
-
-# COHORT ANALYSIS
-
-
