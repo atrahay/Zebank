@@ -56,7 +56,7 @@ Some quick analysis before to begin :
 => We have make a churn analysis with this cleaned data
 
 ### 1) Churn analysis
- > See Aramis's branch to explore code about churn : https://github.com/atrahay/Zebank/edit/Aramis/README.md
+ > See Aramis's branch to explore code about churn : https://github.com/atrahay/Zebank/preview/Aramis/README.md
 
  > See Maria's branch to explore code about cohort : https://github.com/atrahay/Zebank/edit/Maria/README.md
 
